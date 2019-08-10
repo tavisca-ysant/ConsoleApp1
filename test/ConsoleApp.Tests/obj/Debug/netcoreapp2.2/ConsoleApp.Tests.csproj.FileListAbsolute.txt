@@ -1,0 +1,17 @@
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.Tests.deps.json
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.Tests.runtimeconfig.json
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.Tests.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.Tests.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.Tests.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.csprojAssemblyReference.cache
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.AssemblyInfo.cs
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\test\ConsoleApp.Tests\obj\Debug\netcoreapp2.2\ConsoleApp.Tests.csproj.CopyComplete

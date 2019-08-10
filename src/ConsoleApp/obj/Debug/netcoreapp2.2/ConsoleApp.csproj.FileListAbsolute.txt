@@ -1,0 +1,11 @@
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\ysant\source\repos\ConsoleApp1\src\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
